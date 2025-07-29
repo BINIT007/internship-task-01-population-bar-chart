@@ -1,0 +1,34 @@
+ Internship Task 01 - Population Bar Chart:
+
+------>This repository contains my solution for **Task 01** of the Prodigy Infotech Internship.
+
+ 📊 Task Overview:
+
+The objective of this task was to create a bar chart visualization using population data for different countries or regions. The chart visually represents the population distribution, helping identify the most and least populated countries.
+
+ 📁 Files:
+
+---> `Task_01_Bar_Chart.ipynb` — Jupyter Notebook containing the Python code to create the bar chart.
+---> `population_barchart.png` — Image file of the generated bar chart.
+
+ 📌 Tools Used:
+
+---> Python 3
+---> Matplotlib
+---> Google Colab**
+
+ 🚀 How to Run:
+
+1. Open the notebook in  Google Colab.
+2. Run all cells to generate the population bar chart.
+3. The chart will be displayed in the notebook and saved as `population_barchart.png`.
+
+ 📝 Output Preview:
+
+![Population Bar Chart](population_barchart.png)
+
+---
+
+ 🔗 About the Internship
+
+This task is part of my internship at Prodigy Infotech, aimed at enhancing data visualization skills using Python.
